@@ -1,4 +1,4 @@
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+﻿<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
@@ -11,7 +11,7 @@
                     			<td colspan="4" style="text-align: center;"><h3>Datos del Trabajador</h3></td>
                     		</tr>
                     		<tr>
-                    			<th><strong>Codigo y Cedula:</strong></th>
+                    			<th><strong>Codigo y Cedula(hola esto es una modificacion):</strong></th>
                     			<th><strong>Nombres y Apellidos:</strong></th>
                     			<th><strong>Cargo:</strong></th>
                     			<th><strong>Fecha de Ingreso:</strong></th>
